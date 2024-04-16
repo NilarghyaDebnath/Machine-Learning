@@ -1,6 +1,6 @@
 # Machine-Learning
 
-Supervised Learning Approach to Retail Sales Prediction 
+**Supervised Learning Approach to Retail Sales Prediction**
 
 •	Conducted comprehensive data importation, cleaning, and exploration, including the creation of new features. Additionally, performed feature engineering to prepare the dataset for training.
 
@@ -13,7 +13,7 @@ Supervised Learning Approach to Retail Sales Prediction
 •	Conducted thorough analysis to compare and select the most effective model for predicting sales.
 
 
-Unsupervised Learning Approach to Mall Customer Segmentation 
+**Unsupervised Learning Approach to Mall Customer Segmentation** 
 
 •	Implemented unsupervised learning techniques, including K-means and Hierarchical Clustering algorithms, to segment mall customers into distinct groups.
 
